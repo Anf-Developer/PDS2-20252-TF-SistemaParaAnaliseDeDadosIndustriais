@@ -1,6 +1,7 @@
 
 PDS2 - 2025/2-TF-Sistema Para Análise De Dados Industriais
-Integrantes do Grupo: Andre Nunes Fernandes; Guilherme Alexandre Silva Maia; Isabella Helena de Souza Resende; Marcos Paulo dos Santos; Vladimir Timoteo dos Santos.
+Integrantes do Grupo: Andre Nunes Fernandes; Isabella Helena de Souza Resende; Marcos Paulo dos Santos.
+
 Introdução
 O Sistema para Análise de Dados Industriais tem como objetivo central integrar e organizar a análise de informações provenientes de máquinas e equipamentos industriais — como motores elétricos, transformadores, sistemas fotovoltaicos, sistemas eólicos, entre outros. O sistema permite que diferentes perfis de usuários realizem o cadastro de máquinas, inserindo informações detalhadas sobre suas características físicas e funcionais.
 Além disso, o sistema oferece recursos para a geração de relatórios de grandezas, análise de desempenho em períodos selecionados, tratamento de falhas e previsão de manutenções de forma assertiva.
